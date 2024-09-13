@@ -11,12 +11,9 @@
 👨‍💻 Programmer.<br>
 
 ### 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/spyberpolymath)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/spyberpolymath)
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@spyberpolymath)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+917892939127)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/spyberpolymath)
-[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=white)](https://signal.me/#eu/rqAb4mT4xDCRlJjapU1CoaD847OEuTUY_bbitvf3BzG9bsFAlPdIVYwNip97QQed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyberpolymath)
 
 
