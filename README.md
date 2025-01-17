@@ -27,6 +27,8 @@ As a versatile technology professional, I specialize in Ethical Hacking, Cyber F
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQL Server](https://img.shields.io/badge/sql_server-%234F5B93.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 #### 📚 Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
