@@ -26,8 +26,8 @@ Ethical Hacking, Penetration Testing, Digital Forensics, Threat Intelligence
 🖥 **OS & Tools**  
 Windows, Ubuntu, macOS, Linux, VS Code, Jupyter, Power BI, MS Excel, Access, Google Sheets, Git, Docker, AWS, GCP, Linode  
 
-### Goals  
+### Goals 🎯  
 My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields. By contributing to large-scale and challenging initiatives, I aspire to tackle significant issues, innovate solutions, and set new standards in the realms of cybersecurity and technology.  
 
-### Connect with Me  
+### Connect with Me 📱
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amananilofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amananilofficial) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+917892939127) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/amananilofficial)
