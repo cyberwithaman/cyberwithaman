@@ -29,6 +29,5 @@ Windows, Ubuntu, macOS, Linux, VS Code, Jupyter, Power BI, MS Excel, Access, Goo
 ### Goals 🎯  
 My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields. By contributing to large-scale and challenging initiatives, I aspire to tackle significant issues, innovate solutions, and set new standards in the realms of cybersecurity and technology.  
 
-### Connect with Me 📱
 ### Connect with Me 📱  
 [Instagram](https://www.instagram.com/amananilofficial) [LinkedIn](https://www.linkedin.com/in/amananilofficial) [WhatsApp](https://wa.me/+917892939127) [GitHub](https://github.com/amananilofficial)    
