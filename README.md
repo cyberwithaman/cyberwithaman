@@ -30,4 +30,10 @@
 My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields.  
 
 ### 🔗 Connect with Me  
-[![](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amananilofficial) [![](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://wwww.facebook.com/amananilofficial) [![](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917892939127) [![](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amananilofficial) [![](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amananilofficial)
+<p align="center">
+  <a href="https://www.instagram.com/amananilofficial"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/amananilofficial"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://wa.me/+917892939127"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp"/></a>
+  <a href="https://github.com/amananilofficial"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/amananilofficial"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
