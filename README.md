@@ -27,11 +27,11 @@
 🪟 Windows, 🐧 Ubuntu, 🦜 Parrot Sec OS, 🍎 macOS, 🐧 Linux, 💻 VS Code, 📓 Jupyter, 📊 Power BI, 📈 MS Excel, 🗃️ Access, 📋 Google Sheets, 📝 Git, 🐳 Docker, ☁️ AWS, 🌐 GCP, 🌊 Linode  
 
 ### 🎯 Goals  
-My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields. By contributing to large-scale and challenging initiatives, I aspire to tackle significant issues, innovate solutions, and set new standards in the realms of cybersecurity and technology.  
+My goal is to become a leading cyberpolymath researcher and scientist, excelling as an expert in cybersecurity, AI, and data science. I aim to collaborate with government agencies, the army, and corporate organizations on groundbreaking and complex Research and Development (R&D) projects, driving advancements in these critical fields.  
 
 ### 🔗 Connect with Me  
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> [Instagram](https://www.instagram.com/amananilofficial)  
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> [Facebook](https://wwww.facebook.com/amananilofficial)  
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> [LinkedIn](https://www.linkedin.com/in/amananilofficial)  
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> [WhatsApp](https://wa.me/+917892939127)  
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> [GitHub](https://github.com/amananilofficial)
+[![](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amananilofficial)  
+[![](https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://wwww.facebook.com/amananilofficial)  
+[![](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/amananilofficial)  
+[![](https://img.shields.io/badge/-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917892939127)  
+[![](https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amananilofficial)
