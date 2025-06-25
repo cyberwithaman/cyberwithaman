@@ -31,9 +31,8 @@ My goal is to become a leading cyberpolymath researcher and scientist, excelling
 
 ### 🔗 Connect with Me  
 <p align="center">
-  <a href="https://www.instagram.com/amananilofficial"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/amananilofficial"><img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/cyberwithaman"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://wa.me/+917892939127"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp"/></a>
-  <a href="https://github.com/amananilofficial"><img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" style="background-color:#181717; border-radius:50%; padding:6px;" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/amananilofficial"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/cyberwithaman"><img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" style="background-color:#181717; border-radius:50%; padding:6px;" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/cyberwithaman"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
